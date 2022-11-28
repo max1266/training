@@ -1,0 +1,15 @@
+C:\Users\AMM\Desktop\обучение шмидт\training\traning03\obj\Debug\net6.0\traning03.csproj.AssemblyReference.cache
+C:\Users\AMM\Desktop\обучение шмидт\training\traning03\obj\Debug\net6.0\traning03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMM\Desktop\обучение шмидт\training\traning03\obj\Debug\net6.0\traning03.AssemblyInfoInputs.cache
+C:\Users\AMM\Desktop\обучение шмидт\training\traning03\obj\Debug\net6.0\traning03.AssemblyInfo.cs
+C:\Users\AMM\Desktop\обучение шмидт\training\traning03\obj\Debug\net6.0\traning03.csproj.CoreCompileInputs.cache
+C:\Users\AMM\Desktop\обучение шмидт\training\traning03\bin\Debug\net6.0\traning03.exe
+C:\Users\AMM\Desktop\обучение шмидт\training\traning03\bin\Debug\net6.0\traning03.deps.json
+C:\Users\AMM\Desktop\обучение шмидт\training\traning03\bin\Debug\net6.0\traning03.runtimeconfig.json
+C:\Users\AMM\Desktop\обучение шмидт\training\traning03\bin\Debug\net6.0\traning03.dll
+C:\Users\AMM\Desktop\обучение шмидт\training\traning03\bin\Debug\net6.0\traning03.pdb
+C:\Users\AMM\Desktop\обучение шмидт\training\traning03\obj\Debug\net6.0\traning03.dll
+C:\Users\AMM\Desktop\обучение шмидт\training\traning03\obj\Debug\net6.0\refint\traning03.dll
+C:\Users\AMM\Desktop\обучение шмидт\training\traning03\obj\Debug\net6.0\traning03.pdb
+C:\Users\AMM\Desktop\обучение шмидт\training\traning03\obj\Debug\net6.0\traning03.genruntimeconfig.cache
+C:\Users\AMM\Desktop\обучение шмидт\training\traning03\obj\Debug\net6.0\ref\traning03.dll
